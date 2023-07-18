@@ -57,7 +57,7 @@ body{
 
 .content .info > button a {
     text-decoration: none;
-    color: rgb(143, 82, 160) ;
+    color: rgb(143, 81, 160) ;
     
 }
 .content .info > button a:hover{
@@ -66,7 +66,6 @@ body{
 footer{
     display: flex;
     flex-direction: column;
-    font-family: 'Poppins', sans-serif;
 }
 footer .iconos{
     display: flex;
